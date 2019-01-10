@@ -1,0 +1,1 @@
+this folder contains some images of interface. Images show how the game looks on the system after opening. Firstly, it shows the welcome interface. Secondly, it needs to enter four players name those who playing the game. Lastly, it shows the working board photo. Using enter key and by reading instruction player easily play the Ludo game.
